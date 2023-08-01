@@ -4,6 +4,7 @@ import pickle
 import streamlit as st
 import string
 import nltk
+import sklearn
 nltk.download('punkt')
 ps = PorterStemmer()
 
