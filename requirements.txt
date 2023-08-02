@@ -120,7 +120,6 @@ rsa
 scikit-learn
 scipy
 six
-sklearn
 smmap
 soupsieve
 speedtest-cli
