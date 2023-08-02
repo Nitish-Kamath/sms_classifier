@@ -101,7 +101,6 @@ Pympler
 PyMsgBox
 pyparsing
 pyperclip
-pypiwin32
 PyPrind
 PyRect
 PyScreeze
