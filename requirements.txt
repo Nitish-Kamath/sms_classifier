@@ -110,7 +110,6 @@ python-dateutil
 pyttsx3
 PyTweening
 pytz
-pywin32
 pyzmq
 referencing
 regex
