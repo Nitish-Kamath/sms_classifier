@@ -1,5 +1,5 @@
 nltk
 streamlit
 scikit-learn
-scipy
 flask
+scipy==1.11.1
