@@ -89,7 +89,6 @@ pure-eval==0.2.2
 pyarrow==12.0.1
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-PyAudio @ file:///C:/Users/Home/Downloads/Programs/PyAudio-0.2.11-cp39-cp39-win_amd64.whl
 PyAutoGUI==0.9.52
 pycodestyle==2.8.0
 pydeck==0.8.0
