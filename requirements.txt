@@ -116,7 +116,6 @@ regex
 requests
 requests-oauthlib
 rich
-rpds-py
 rsa
 scikit-learn
 scipy
@@ -124,7 +123,6 @@ six
 sklearn
 smmap
 soupsieve
-SpeechRecognition
 speedtest-cli
 stack-data
 streamlit
