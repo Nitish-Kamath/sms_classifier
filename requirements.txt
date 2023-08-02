@@ -2,5 +2,4 @@ nltk
 streamlit
 scikit-learn
 scipy
-scipy.sparse._csr
 flask
