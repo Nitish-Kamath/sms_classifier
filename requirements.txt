@@ -89,7 +89,6 @@ pure-eval
 pyarrow
 pyasn1
 pyasn1-modules
-PyAudio
 PyAutoGUI
 pycodestyle
 pydeck
